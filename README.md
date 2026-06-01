@@ -48,6 +48,7 @@ Niche directories focused on software discovery and SaaS growth.
 
 Perfect for launching products, gathering feedback, and finding early adopters.
 
+* [FindYourSaaS](https://www.findyoursaas.com/) - A curated SaaS directory for discovering and listing SaaS solutions and tools.
 * [BetaList](https://www.betalist.com/) - Showcase early-stage startups to thousands of tech enthusiasts.
 * [Indie Hackers](https://www.indiehackers.com/) - Community of SaaS founders, solopreneurs, and makers.
 * [StartupBase](https://startupbase.io/) - Directory for startups and product launches.
