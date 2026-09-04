@@ -38,6 +38,7 @@ The most important platforms every SaaS company should consider.
 Niche directories focused on software discovery and SaaS growth.
 
 * [SaaSHub](https://www.saashub.com/) - Independent SaaS marketplace and software discovery platform.
+* [SaaSCity](https://saascity.io/) - Gamified SaaS directory; every listing becomes a building on an isometric city map.
 * [Zapier Apps Directory](https://zapier.com/apps) - Showcase integrations to millions of Zapier users.
 * [B2B Stack](https://www.b2bstack.com.br/) - Software comparison platform for B2B buyers.
 * [TapRefer](https://www.taprefer.com/) - Directory of affiliate and referral programs.
