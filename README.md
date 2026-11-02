@@ -30,6 +30,7 @@ The most important platforms every SaaS company should consider.
 * [Trustpilot](https://www.trustpilot.com/) - Collect customer reviews and build credibility.
 * [AlternativeTo](https://alternativeto.net/) - Help users discover your software as an alternative to competitors.
 * [Altern](https://altern.ai/) - Launch and promote AI tools and software products.
+* [SitePatent](https://sitepatent.com/) - Directory of startups, tools, and online products by category and tech stack.
 
 ---
 
