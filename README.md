@@ -56,6 +56,7 @@ Perfect for launching products, gathering feedback, and finding early adopters.
 * [SideProjectors](https://www.sideprojectors.com/) - Marketplace for side projects and startups.
 * [IndieProducts](https://www.indieproducts.io/) - Directory for indie makers and bootstrapped businesses.
 * [PeerPush](https://peerpush.net/) - Build-in-public community for discovering innovative products.
+* [MEDIAPRONET](https://mediapronet.com/) - Curated directory where founders list new startups, SaaS tools and indie products.
 
 ---
 
